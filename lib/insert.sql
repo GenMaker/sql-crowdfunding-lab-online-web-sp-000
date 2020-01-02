@@ -1,4 +1,5 @@
-INSERT INTO users
+INSERT INTO users (name,age)
+VALUES 
 
 INSERT INTO projects
 
