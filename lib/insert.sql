@@ -1,4 +1,4 @@
-INSERT INTO users (name,age) VALUES ("Alex",16);
+INSERT INTO users (name, age) VALUES ("Alex",16);
 INSERT INTO users (name,age) VALUES ("Bob", 24);
 INSERT INTO users (name,age) VALUES ("Janet", 30);
 INSERT INTO users (name,age) VALUES ("Robert", 35);
