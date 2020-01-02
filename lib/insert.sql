@@ -40,17 +40,17 @@ VALUES ('I want to teach English in China', 'charity', 3000.00, '2013-01-20', '2
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ('Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-06-30');
 
--- INSERT INTO pledges (amount, user_id, project_id) VALUES (10.00, 1, 2);
--- INSERT INTO pledges (amount, user_id, project_id) VALUES (20.00, 1, 3);
--- INSERT INTO pledges (amount, user_id, project_id) VALUES (40.00, 1, 4);
--- INSERT INTO pledges (amount, user_id, project_id) VALUES (50.00, 2, 3);
--- INSERT INTO pledges (amount, user_id, project_id) VALUES (10.00, 3, 2);
--- INSERT INTO pledges (amount, user_id, project_id) VALUES (20.00, 4, 4);
--- INSERT INTO pledges (amount, user_id, project_id) VALUES (40.00, 5, 10);
--- INSERT INTO pledges (amount, user_id, project_id) VALUES (60.00, 6, 10);
--- INSERT INTO pledges (amount, user_id, project_id) VALUES (50.00, 7, 9);
--- INSERT INTO pledges (amount, user_id, project_id) VALUES (700.00, 8, 8);
---
+INSERT INTO pledges (amount, user_id, project_id) VALUES (10.00, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (20.00, 1, 3);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (40.00, 1, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (50.00, 2, 3);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (10.00, 3, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (20.00, 4, 4);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (40.00, 5, 10);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (60.00, 6, 10);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (50.00, 7, 9);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (700.00, 8, 8);
+
 -- INSERT INTO pledges (amount, user_id, project_id) VALUES (1000.00, 8, 7);
 -- INSERT INTO pledges (amount, user_id, project_id) VALUES (40.00, 9, 6);
 -- INSERT INTO pledges (amount, user_id, project_id) VALUES (50.00, 9, 3);
