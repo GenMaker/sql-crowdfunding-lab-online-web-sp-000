@@ -22,7 +22,7 @@ INSERT INTO users (name, age) VALUES ("Kate", 44);
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
 VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
+VALUES ('My book on SQL', 'books', 20.00, '2013-01-01', '2014-01-01');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
 VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
