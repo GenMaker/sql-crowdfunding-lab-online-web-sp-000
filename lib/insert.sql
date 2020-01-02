@@ -43,7 +43,7 @@ VALUES ('Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-0
 INSERT INTO pledges (amount, user_id, project_id) VALUES (10.00, 1, 2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (20.00, 1, 3);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (40.00, 1, 4);
-INSERT INTO pledges (amount, user_id, project_id) VALUES ();
+INSERT INTO pledges (amount, user_id, project_id) VALUES (50.00, 2, 3);
 INSERT INTO pledges (amount, user_id, project_id) VALUES ();
 INSERT INTO pledges (amount, user_id, project_id) VALUES ();
 INSERT INTO pledges (amount, user_id, project_id) VALUES ();
