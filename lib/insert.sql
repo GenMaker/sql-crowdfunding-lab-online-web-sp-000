@@ -19,7 +19,7 @@ INSERT INTO users (name, age) VALUES ("Ian", 53);
 INSERT INTO users (name, age) VALUES ("Babe", 38);
 INSERT INTO users (name, age) VALUES ("Kate", 44);
 
-INSERT INTO projects(title, catagory, funding_goal, start_date, end_date)
-VALUES ();
-
-INSERT INTO pledges
+-- INSERT INTO projects(title, catagory, funding_goal, start_date, end_date)
+-- VALUES ();
+--
+-- INSERT INTO pledges
