@@ -32,7 +32,7 @@ VALUES ('Voldement needs a body', 'charity', 6000.00, '2013-03-20', '2013-09-20'
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
 VALUES ('The next Inna-Gadda-Davida', 'music', 200.00, '2014-12-30', '2015-12-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
+VALUES ('Iguana needs tail operation', 'charity', 2000.00, '2013-10-02', '2013-10-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
 VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
