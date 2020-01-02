@@ -41,7 +41,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ('Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-06-30');
 
 INSERT INTO pledges (amount, user_id, project_id) VALUES (10.00, 1, 2);
-INSERT INTO pledges (amount, user_id, project_id) VALUES ();
+INSERT INTO pledges (amount, user_id, project_id) VALUES (20.00, 1, 3);
 INSERT INTO pledges (amount, user_id, project_id) VALUES ();
 INSERT INTO pledges (amount, user_id, project_id) VALUES ();
 INSERT INTO pledges (amount, user_id, project_id) VALUES ();
