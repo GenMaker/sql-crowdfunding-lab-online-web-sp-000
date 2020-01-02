@@ -20,24 +20,24 @@ INSERT INTO users (name, age) VALUES ("Babe", 38);
 INSERT INTO users (name, age) VALUES ("Kate", 44);
 
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ("Science Fair", education, 10000, );
+VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ();
+VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ();
+VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ();
+VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ();
+VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ();
+VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ();
+VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ();
+VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ();
+VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 INSERT INTO projects (title, catagory, funding_goal, start_date, end_date)
-VALUES ();
+VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
 
 -- INSERT INTO pledges
